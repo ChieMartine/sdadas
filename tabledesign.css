@@ -1,0 +1,48 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table{
+    border-collapse: collapse;
+    box-shadow: 0px 0px 0px 0px #4b4949;
+    margin: 0px auto;
+}
+
+.evaoftable{
+    border-collapse: collapse;
+    box-shadow: 0px 1px 3px 1px #4b4949;
+    margin: 36px auto;
+}
+
+.TAKENSUBS{
+    background-color: skyblue;
+}
+
+.INPROGRESSSUBS{
+    background-color: yellow;
+}
+
+table td{
+    border-bottom: 1px solid #9c9c9c;
+    padding: 12px;
+    border: 1px solid rgb(105, 105, 105);
+    border-collapse: collapse;
+}
+
+table tr{
+    text-align: center;
+    
+}
+
+.sem{
+    color: white;
+    font-weight: 600;
+    text-align: center;   
+      
+}
+
+.sem-header td{
+    font-weight: 600;
+    text-align: center;
+    background-color: #e2e2e2;
+}
